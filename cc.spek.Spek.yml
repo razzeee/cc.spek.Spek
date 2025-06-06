@@ -35,8 +35,8 @@ modules:
       - --enable-intl
     sources:
       - type: archive
-        url: https://github.com/wxWidgets/wxWidgets/releases/download/v3.2.7/wxWidgets-3.2.7.tar.bz2
-        sha256: 69a1722f874d91cd1c9e742b72df49e0fab02890782cf794791c3104cee868c6
+        url: https://github.com/wxWidgets/wxWidgets/releases/download/v3.3.0/wxWidgets-3.3.0.tar.bz2
+        sha256: 492f5eb8a58715f2602f31025c3eaa20d71a3ec8e052c7a9d33153966b4badca
         x-checker-data:
           type: json
           url: https://api.github.com/repos/wxWidgets/wxWidgets/releases/latest
